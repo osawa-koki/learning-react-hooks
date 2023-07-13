@@ -13,6 +13,11 @@ const pages = [
     emoji: '🖊️',
     path: '/useState/',
     name: 'useState'
+  },
+  {
+    emoji: '📦',
+    path: '/useContext/',
+    name: 'useContext'
   }
 ]
 

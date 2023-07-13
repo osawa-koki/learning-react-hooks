@@ -2,7 +2,7 @@ import React from 'react'
 import Layout from '../components/Layout'
 import setting from '../setting'
 
-export default function Home (): JSX.Element {
+export default function IndexPage (): JSX.Element {
   return (
     <Layout>
       <div id='Index' className='d-flex flex-column align-items-center'>

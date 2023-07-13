@@ -13,6 +13,11 @@ const pages = [
     emoji: '💓',
     path: '/contact/',
     name: 'Contact'
+  },
+  {
+    emoji: '📚',
+    path: '/useReducer/',
+    name: 'useReducer'
   }
 ]
 

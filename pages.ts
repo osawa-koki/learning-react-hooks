@@ -25,6 +25,11 @@ const pages = [
     name: 'useCallback'
   },
   {
+    emoji: '🎁',
+    path: '/useMemo/',
+    name: 'useMemo'
+  },
+  {
     emoji: '✏️',
     path: '/useRef/',
     name: 'useRef'

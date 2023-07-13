@@ -36,7 +36,7 @@ const BadExample = (): JSX.Element => {
             onClick={() => {
               setNumber(tmpNumber)
             }}
-          >Calculate</Button>
+          >Show</Button>
         </Form.Group>
       </Form>
     </div>
@@ -73,7 +73,7 @@ const GoodExample = (): JSX.Element => {
             onClick={() => {
               setNumber(tmpNumber)
             }}
-          >Calculate</Button>
+          >Show</Button>
         </Form.Group>
       </Form>
     </div>

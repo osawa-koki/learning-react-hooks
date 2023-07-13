@@ -1,4 +1,3 @@
-
 import React, { useReducer } from 'react'
 import Layout from '../components/Layout'
 import { Button, Form } from 'react-bootstrap'

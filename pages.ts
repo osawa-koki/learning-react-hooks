@@ -23,6 +23,11 @@ const pages = [
     emoji: '📝',
     path: '/useCallback/',
     name: 'useCallback'
+  },
+  {
+    emoji: '🎁',
+    path: '/useMemo/',
+    name: 'useMemo'
   }
 ]
 
